@@ -20,9 +20,12 @@ bower_components
 .idea
 *.iml
 
+./demo
+
 # OS metadata
 .DS_Store
 Thumbs.db
 
 # ignore yarn.lock
 yarn.lock
+
