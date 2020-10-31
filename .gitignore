@@ -20,7 +20,7 @@ bower_components
 .idea
 *.iml
 
-./demo
+/demo
 
 # OS metadata
 .DS_Store
